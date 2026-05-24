@@ -1,0 +1,89 @@
+# Gradle
+.gradle
+/build
+*.apk
+*.ap_
+*.dex
+
+# Android Studio
+.idea
+*.iml
+*.iws
+*.ipr
+local.properties
+
+# Built application files
+*.class
+*.jar
+*.war
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+
+# Gradle files
+.gradle/
+build/
+
+# Android Studio specific (not recommended to share)
+.idea/
+
+# Keystore files
+*.jks
+*.keystore
+
+# Local properties
+local.properties
+
+# Compiled class file
+*.pyc
+
+# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, CLion, Android Studio, WebStorm and Rider
+.idea/
+*.iws
+*.iml
+*.ipr
+*.iml
+*.ipr
+*.xml
+out/
+
+# User-specific stuff:
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/dictionaries
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Backup files
+*~
+*.swp
+*.swo
+
+# Mac files
+.DS_Store
+
+# Firebase
+google-services.json
+.env
+.env.local
+.env.*.local
+
+# Node modules (if any)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Misc
+*.log
+*.stackdump
